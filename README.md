@@ -1,6 +1,9 @@
 # bloc_pattern_company
 
-A new Flutter application.
+In this application you can learn following things:
+1. Bloc Pattern
+2. Hit Api 
+3. Json Serialization
 
 ## Getting Started
 
